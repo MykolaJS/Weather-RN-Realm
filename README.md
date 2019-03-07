@@ -23,5 +23,5 @@ JavaScript, React Native, Redux, Redux Thunk, Navigation.
 2) Connect your device to the computer or use the emulator.
 3) Download and install Node.js (https://nodejs.org/en/download/)
 2) Open Command Line in the project directory and run:
-#### `npm install -g react-native-cli`
+#### `npm install`
 #### `react-native run-android`
